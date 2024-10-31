@@ -1,0 +1,5 @@
+Flask==2.2.3
+selenium==4.10.0
+webdriver-manager==3.8.6
+beautifulsoup4==4.12.2
+requests==2.31.0  # needed to handle requests in case you want to add HTTP requests later
